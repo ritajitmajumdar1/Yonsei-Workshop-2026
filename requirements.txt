@@ -1,0 +1,9 @@
+matplotlib
+numpy
+qiskit
+ffsim
+qiskit_ibm_runtime==0.46.1
+qiskit_addon_sqd
+pyscf
+pylatexenc
+pandas
